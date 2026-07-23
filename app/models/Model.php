@@ -1,5 +1,5 @@
 <?php
-
+//dibuat/oleh/miko gusti marcello
 class Model
 {
     protected $db;

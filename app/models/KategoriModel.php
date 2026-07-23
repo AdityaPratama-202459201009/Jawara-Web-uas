@@ -1,5 +1,5 @@
 <?php
-
+//miko gusti marcello
 require_once "Model.php";
 
 class KategoriModel extends Model

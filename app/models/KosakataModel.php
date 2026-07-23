@@ -1,5 +1,5 @@
 <?php
-
+//dibuat/miko gusti marcello
 require_once __DIR__ . "/Model.php";
 
 class KosakataModel extends Model
