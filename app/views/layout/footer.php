@@ -1,3 +1,6 @@
+<?php
+//dibuat oleh bintang
+?>
 </div>
 
 <footer class="bg-success text-white mt-5">

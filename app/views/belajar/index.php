@@ -1,5 +1,5 @@
 <?php require_once __DIR__ . "/../layout/header.php"; ?>
-
+//dibuat oleh bintang
 <h2 class="mb-4">📚 Belajar Bahasa Jawa</h2>
 
 <div class="row">

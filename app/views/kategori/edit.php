@@ -1,3 +1,6 @@
+<?php
+//dibuat oleh bintang
+?>
 <!DOCTYPE html>
 <html lang="id">
 <head>

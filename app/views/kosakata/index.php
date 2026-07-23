@@ -1,5 +1,5 @@
 <?php require_once __DIR__ . "/../layout/header.php"; ?>
-
+//dibuat oleh bintang
 <div class="d-flex justify-content-between align-items-center mb-4">
 
     <h2>📖 Daftar Kosakata</h2>
